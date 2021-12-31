@@ -8,9 +8,7 @@ someRandomGayData = exports['serverdata']:GetData('drugs')
 
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
-ESX.RegisterServerCallback('dumpIsForGayDude', function(source, cb)
-	cb(someRandomGayData)
-end)
+
 
 AddEventHandler('playerDropped', function()
 	PlayersHarvestingCoke[source], PlayersTransformingCoke[source], PlayersSellingCoke[source] = nil, nil, nil
