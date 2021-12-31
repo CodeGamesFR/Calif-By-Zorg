@@ -20,3 +20,4 @@ Wiki de la base : [WIKI.md](https://github.com/Korioz/CaliforniaRP/blob/master/W
 
 ## Credit
 Développé par 💖 du développement par Korioz (https://discord.gg/zkTT5Yq)
+Edité & Sécurisé par Zorg (https://www.twitch.tv/zorgsurtwitch , https://discord.gg/arTWkT5ce4)
